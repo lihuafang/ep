@@ -1,2 +1,2 @@
 # ep
-Experiential Philanthropy
+For documenting the effects of Experiential Philanthropy classes. 
